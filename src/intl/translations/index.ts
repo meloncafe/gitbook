@@ -4,6 +4,7 @@ import { en } from './en';
 import { es } from './es';
 import { fr } from './fr';
 import { ja } from './ja';
+import { ko } from './ko';
 import { TranslationLanguage } from './types';
 import { zh } from './zh';
 
@@ -17,4 +18,5 @@ export const languages: {
     es,
     zh,
     ja,
+    ko,
 };
